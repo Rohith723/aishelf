@@ -11,7 +11,7 @@ A beautifully designed, blazing-fast directory of 60+ AI tools — built with An
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[🌐 Live Demo](https://aishelf.vercel.app) · [🐛 Report Bug](https://github.com/YOURUSERNAME/aishelf/issues) · [✨ Request Feature](https://github.com/YOURUSERNAME/aishelf/issues)
+[🌐 Live Demo](https://aishelf.vercel.app) · [🐛 Report Bug](https://github.com/Rohith723/aishelf/issues) · [✨ Request Feature](https://github.com/Rohith723/aishelf/issues)
 
 </div>
 
@@ -132,7 +132,7 @@ aishelf/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOURUSERNAME/aishelf.git
+git clone https://github.com/Rohith723/aishelf.git
 cd aishelf
 
 # Install dependencies
@@ -158,7 +158,7 @@ Build artifacts will be output to `dist/ai-tools-directory/browser`.
 
 This project is configured for one-click deployment on **Vercel**.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOURUSERNAME/aishelf)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Rohith723/aishelf)
 
 ### Manual Deploy
 
