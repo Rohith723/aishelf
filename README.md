@@ -171,19 +171,6 @@ Also fully compatible with **Netlify** — see `netlify.toml` for config.
 
 ---
 
-## 💰 Monetization
-
-This project is structured to support **Google AdSense**:
-
-- Real, crawlable routes for every page (`/about`, `/privacy-policy`, `/terms-of-use`)
-- Original, substantial written content on legal pages
-- Clean, ad-friendly layout with natural ad placement zones
-- Fast load times via Angular's optimized production build
-
-To add AdSense, paste your verification/ad script into `src/index.html`.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To add a new AI tool to the directory:
