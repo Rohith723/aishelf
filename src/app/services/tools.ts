@@ -41,6 +41,7 @@ export class ToolsService {
     { id: 31, name: 'v0 by Vercel', description: 'Generate React UI components and full pages from text prompts instantly.', category: 'Coding', tags: ['ui', 'react', 'components'], url: 'https://v0.dev', pricing: 'Freemium', icon: '▲', new: true },
     { id: 32, name: 'Replit AI', description: 'Cloud IDE with AI that helps you build and debug code.', category: 'Coding', tags: ['ide', 'cloud', 'coding'], url: 'https://replit.com', pricing: 'Freemium', icon: '🔧' },
     { id: 33, name: 'Tabnine', description: 'AI code completion for all major IDEs and languages.', category: 'Coding', tags: ['autocomplete', 'coding', 'ide'], url: 'https://tabnine.com', pricing: 'Freemium', icon: '🔵' },
+    { id: 64, name: 'Agent QA', description: 'YAML web/mobile QA via CLI/MCP; currently free (FSL-1.1-ALv2), provider costs may apply.', category: 'Coding', tags: ['testing', 'yaml', 'regression'], url: 'https://vostride.com/docs/agent-qa', pricing: 'Free', icon: '🧪' },
     // Productivity
     { id: 34, name: 'Notion AI', description: 'AI built into Notion for writing, summarizing, and planning.', category: 'Productivity', tags: ['notes', 'writing', 'planning'], url: 'https://notion.so/product/ai', pricing: 'Freemium', icon: '📋' },
     { id: 35, name: 'Perplexity AI', description: 'AI-powered search engine that cites its sources.', category: 'Productivity', tags: ['search', 'research', 'citations'], url: 'https://perplexity.ai', pricing: 'Freemium', icon: '🔍', featured: true },
