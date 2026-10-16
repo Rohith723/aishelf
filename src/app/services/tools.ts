@@ -76,6 +76,7 @@ export class ToolsService {
     { id: 61, name: 'Make', description: 'Visual no-code automation platform connecting 1000+ apps with AI workflows.', category: 'Agents', tags: ['automation', 'no-code', 'workflows'], url: 'https://make.com', pricing: 'Freemium', icon: '⚙️' },
     { id: 62, name: 'Relevance AI', description: 'Build and deploy AI agents for sales, support and operations without code.', category: 'Agents', tags: ['agent', 'sales', 'no-code'], url: 'https://relevanceai.com', pricing: 'Freemium', icon: '🧩', new: true },
     { id: 63, name: 'LangChain', description: 'Framework for building LLM-powered applications and autonomous AI agents.', category: 'Agents', tags: ['framework', 'llm', 'developer'], url: 'https://langchain.com', pricing: 'Free', icon: '🔗' },
+    { id: 64, name: 'AI 만화 번역기', description: 'AI 만화 번역기는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop형 편집기, 개인 작업 흐름용 API와 모든 지원 언어를 제공하는 기업급 만화 리더입니다.', category: 'Image', tags: ['manga', 'translation', 'editing'], url: 'https://www.mangatranslate.com/ko/ai-manga-translator/', pricing: 'Freemium', icon: '📖' },
   ];
 
   getAll(): Tool[] { return this.tools; }
